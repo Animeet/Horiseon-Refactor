@@ -28,4 +28,7 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Through both the Module description, and the information under 02-Challenge, I did not see any mention of needing to include a license to this repository.
+Our lessons throughout the week never included us adding a License. Though, the prework-study-guide had us include a standard MIT License.
+
+I can add a License if need be, but will follow the directions given, and not include extra things that were not asked of me.
