@@ -11,6 +11,8 @@
  - Add comments to the index.html and style.css
  - Consolodate a lot of repeated code in the style.css file
 
+ ![Horiseon-Landing-Page](/Week_1/Homework_Assignment/Horiseon-Refactor/assets/images/01-html-css-git-homework-demo.png)
+
 Deployed Application URL: https://animeet.github.io/Horiseon-Refactor/
 
 ## Installation
